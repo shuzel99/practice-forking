@@ -7,6 +7,8 @@ function App() {
       <header className="App-header">
         <h1>Team MinMax</h1>
         <p>THIS IS THE FIRST EDIT I'VE MADE.</p>
+        <p>We have added our files to this.
+        </p>
       </header>
     </div>
   );
